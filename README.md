@@ -51,7 +51,7 @@ It leverages core Java SE features like <code>WatchService</code>, <code>Executo
 
 <h2>Installation</h2>
 <pre>
-git clone https://github.com/yourusername/SmartFileOrganizer.git
+git clone https://github.com/sumitsbedre/SmartFileOrganizer.git
 cd SmartFileOrganizer
 </pre>
 
