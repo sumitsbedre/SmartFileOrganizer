@@ -3,40 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Smart File Organizer</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 40px;
-            line-height: 1.6;
-            background-color: #f4f6f8;
-            color: #333;
-        }
-        h1, h2 {
-            color: #2c3e50;
-        }
-        code {
-            background-color: #eaeaea;
-            padding: 4px 6px;
-            border-radius: 4px;
-        }
-        pre {
-            background-color: #1e1e1e;
-            color: #ffffff;
-            padding: 15px;
-            border-radius: 6px;
-            overflow-x: auto;
-        }
-        ul {
-            margin-left: 20px;
-        }
-        .container {
-            background: #ffffff;
-            padding: 30px;
-            border-radius: 10px;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.08);
-        }
-    </style>
+    
 </head>
 <body>
 
